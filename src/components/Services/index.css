@@ -1,0 +1,16 @@
+.services-container {
+  margin-top: 80px;
+}
+
+.services-title {
+  font-size: 30px;
+  text-align: center;
+}
+
+.service-ul-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0px;
+}

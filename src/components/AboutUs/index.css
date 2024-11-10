@@ -1,0 +1,33 @@
+.about-us-container {
+  margin-top: 80px;
+  background-color: #cacfd2;
+  padding: 20px;
+  padding-left: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-us-title {
+  margin: 0px;
+}
+
+.about-us-para {
+  font-size: 13px;
+}
+
+.about-us-btn-el {
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #2e86c1;
+  border-width: 0px;
+  border-radius: 5px;
+  width: 130px;
+  height: 45px;
+  font-weight: bold;
+}
+
+.about-us-terms {
+  font-size: 20px;
+  width: 100px;
+}

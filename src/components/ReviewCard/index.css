@@ -1,0 +1,36 @@
+.review-card-container {
+  background-color: #ffffff;
+  box-shadow: 4px 0px 16px 0px grey;
+  width: 300px;
+  border-radius: 5px;
+  padding: 12px;
+}
+
+.img-name-rating-review-container {
+  display: flex;
+  align-items: center;
+}
+
+.review-person-img {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+}
+
+.review-person-name {
+  font-size: 20px;
+  margin: 0px;
+}
+
+.five-star-rating-img {
+  height: 25px;
+  width: 100px;
+}
+
+.review-para {
+  font-size: 15px;
+}
+
+.review-span-el {
+  color: #3498db;
+}

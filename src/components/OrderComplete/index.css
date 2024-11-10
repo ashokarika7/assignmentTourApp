@@ -1,0 +1,55 @@
+.order-details-main-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-details-container {
+  width: 30%;
+}
+
+.order-details-name {
+  font-size: 22px;
+  margin: 0px;
+}
+
+.order-details-para {
+  font-size: 12px;
+}
+
+.order-complete-container {
+  display: flex;
+  justify-content: center;
+}
+
+.order-details-tick-img {
+  height: 70px;
+  width: 70px;
+}
+
+.order-complete-queries-cotnainer {
+}
+
+.order-complete-title {
+  font-size: 25px;
+  margin: 0px;
+}
+
+.order-btn {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.order-details-rooms-container {
+  display: flex;
+  justify-content: center;
+}
+
+.contac-us {
+  text-decoration: none;
+}
+
+.order-details-booking-card {
+  bottom: 15%;
+}
